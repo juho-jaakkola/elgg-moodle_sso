@@ -1,0 +1,13 @@
+{
+	"name": "juho-jaakkola/elgg-moodle_sso",
+	"description": "Provides automatic login to Elgg if user has an existing Moodle session.",
+	"type": "elgg-plugin",
+	"keywords": [
+		"elgg",
+		"plugin"
+	],
+	"license": "GPL-2.0",
+	"extra": {
+		"installer-name": "moodle_sso"
+	}
+}
